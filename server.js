@@ -16,6 +16,6 @@ server.listen(5000, function()
 {
   //écrire dans info que le serveur est lancé
   console.log("Le serveur est dispo sur http://localhost:5000");
-  fm.writeLevel("./logs","Info","txt","Le serveur est dispo sur http://localhost:5000"); 
+  fm.writeLevel("./logs","Info","log","Le serveur est dispo sur http://localhost:5000"); 
 });
 
