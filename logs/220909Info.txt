@@ -1,2 +1,0 @@
-Le serveur est dispo sur http://localhost:5000
-Le serveur est dispo sur http://localhost:5000
